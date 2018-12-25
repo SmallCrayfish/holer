@@ -71,4 +71,4 @@ If you want to have **exclusive holer services**, please contact by QQ for appli
 以上的全部key和端口都已公开共享。用户也可以申请专属的holer服务，如果您需要**专属的holer服务**，请QQ联系开通。Holer服务详情，请访问[**Wisdom**](http://www.wdom.net)。<br/><br/>
 _**QQ**    : 2353941272_<br/>
 
-
+部分终端软件可能不行，可以用mobaxterm     https://mobaxterm.mobatek.net/download-home-edition.html
